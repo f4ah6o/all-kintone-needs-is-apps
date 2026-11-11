@@ -1,0 +1,8 @@
+.aknia { padding: 16px; max-width: 1100px; color: #253343; }
+.aknia h2 { margin: 0 0 8px; }
+.aknia-nav { display: flex; gap: 8px; flex-wrap: wrap; }
+.aknia button, .aknia input { padding: 8px 12px; margin: 4px 0; font: inherit; }
+.aknia button { cursor: pointer; }
+.aknia input { width: min(100%, 360px); box-sizing: border-box; }
+.aknia details { padding: 8px 0; border-bottom: 1px solid #ddd; }
+.aknia pre { white-space: pre-wrap; overflow-wrap: anywhere; background: #f4f6f8; padding: 12px; }

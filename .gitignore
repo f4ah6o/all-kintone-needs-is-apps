@@ -1,0 +1,10 @@
+# Local verification artifacts and older exported templates
+*.png
+*.zip
+!kintone-template-expanded.zip
+customize-legacy.js
+
+# Local credentials and operating system files
+.env
+.env.*
+.DS_Store
